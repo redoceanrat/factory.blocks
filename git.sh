@@ -11,8 +11,8 @@ git push -u origin main
 # && find . -name ".gitignore" \
 # && find . -name ".gitmodules"
 
-git config --global credential.helper cache
 # Set git to use the credential memory cache
 #for month
+git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=2628000'
 

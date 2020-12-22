@@ -1,4 +1,4 @@
-cd /home/red/factory.block
+cd /home/red/factory.blocks
 
 mkdir blockpy-edu
   mkdir blockpy-edu/skulpt
@@ -28,7 +28,3 @@ npm run devbuild
 #   curriculum-ctvt
 #   curriculum-sneks
 
-# tashriq
-
-ssh tashriq@102.130.122.20
-tqdev
